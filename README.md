@@ -1,4 +1,4 @@
-# Vasudha_Annam
+# Hackathon_Annam.AI
 Annam.AI Hackathon 2025    "Fueling Innovation in Food &amp; Sustainable Agriculture with AI"
 Demo Drive: https://drive.google.com/drive/folders/14xPgfnbR0Cj1haLNd5WQLC7r3ARFhAO-
 
